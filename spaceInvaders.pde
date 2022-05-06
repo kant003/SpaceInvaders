@@ -122,6 +122,6 @@ void mouseMoved(){
    else player.moveLeft();*/
 }
 
-void mouseClicked(){
+void mousePressed(){
   player.shot();
 }
