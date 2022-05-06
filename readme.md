@@ -2,7 +2,7 @@
 
 - [x] Conseguir mostrar y mover por pantalla al jugador
 
-- [ ] Conseguir mostrar en pantalla las naves enemigas
+- [x] Conseguir mostrar en pantalla las naves enemigas
 
 - [ ] Conseguir que el jugador dispare
 
