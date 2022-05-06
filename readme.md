@@ -4,7 +4,7 @@
 
 - [x] Conseguir mostrar en pantalla las naves enemigas
 
-- [ ] Conseguir que el jugador dispare
+- [x] Conseguir que el jugador dispare
 
 - [ ] Conseguir destruir naves cuando les dispares
 
