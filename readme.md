@@ -1,6 +1,6 @@
 # Sprints
 
-- [ ] Conseguir mostrar y mover por pantalla al jugador
+- [x] Conseguir mostrar y mover por pantalla al jugador
 
 - [ ] Conseguir mostrar en pantalla las naves enemigas
 
