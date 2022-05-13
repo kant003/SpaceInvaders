@@ -5,11 +5,13 @@ class Player extends Movil {
 
   int shotInterval = 30;
   int lastShotFired = -shotInterval;
+  SoundFile sound;
   
-  Player(){
+  Player(spaceInvaders context){
     y = height - 40;
     w=26;
     h=8;
+    sound = new SoundFile(context, "assets/laser.mp3");
   }
   
   void draw() {
@@ -31,6 +33,7 @@ class Player extends Movil {
       Bullet newBullet = new Bullet(x+w/2, y-5, Direction.UP);
       bullets.add(newBullet);
       lastShotFired = frameCount;
+      sound.play();
     }
   }
 }
