@@ -14,7 +14,7 @@
 
 - [x] Mover las naves
 
-- [ ] Conseguir matar al jugador cuando las naves chocan con él
+- [x] Conseguir matar al jugador cuando las naves chocan con él
 
 # Pasos del main
 
